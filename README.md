@@ -1,12 +1,14 @@
-<!-- Header Banner -->
-![Header](https://i.ibb.co/ZVh01dm/github-header-image.png)
+<!-- Landscape Header GIF -->
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D12AQH-C2soN0G0Tg/article-cover_image-shrink_720_1280/0/1695101035305?e=2147483647&v=beta&t=JHPtHzYn9IdwUMaYDK5lX-LNU9g4rZ2hzpQ4fJxeNOU" width="100%" alt="Coding Banner"/>
+</p>
 
 <h1 align="center">👋 Hi, I'm Unnikrishnan Nair SR</h1>  
 <h3 align="center">💻 Computer Engineering Student | Aspiring Full-Stack Developer 🚀</h3>  
 
 ---
 
-<!-- Animated Typing Intro -->
+<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F79E&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Building+Projects+with+MERN+Stack;Lifelong+Learner+%26+Problem+Solver">
@@ -34,10 +36,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -65,15 +63,15 @@
 
 ---
 
-## 🏅 GitHub Trophies  
+## 📈 GitHub Activity Graph  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UNNIKRISHNANNAIRSR&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UNNIKRISHNANNAIRSR&bg_color=0D1117&color=00F79E&line=00F79E&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-## 🐍 Fun Animation  
+## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
