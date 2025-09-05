@@ -1,6 +1,6 @@
-<!-- Landscape Header GIF -->
+<!-- Coding Landscape Banner -->
 <p align="center">
-  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="100%" alt="Coding Banner"/>
+  <img src="https://i.gifer.com/3W3Z.gif" width="100%" alt="Coding Animation"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Unnikrishnan Nair SR</h1>  
