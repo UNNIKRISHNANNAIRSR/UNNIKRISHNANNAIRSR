@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Unnikrishnan Nair SR
 
-<!--
-**UNNIKRISHNANNAIRSR/UNNIKRISHNANNAIRSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 A diploma third-year Computer Engineering student who likes to code
 
-Here are some ideas to get you started:
+- 🎓 **Current Role:** Third year Computer Engineering student (Diploma)
+- 💡 **Top Skills/Technologies:** C, Java, Python, HTML, and more
+- 🍲 **Favorite Project:** [Recipe App](https://github.com/UNNIKRISHNANNAIRSR/INTERSHIP_PROJECT_RECIPE_APP)
+- 🏆 **Notable Achievements:** Built a complete Recipe App during internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm passionate about building efficient solutions and constantly learning new technologies. I enjoy solving puzzles and playing games in my free time.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/unnikrishnan-nair-sr-714636357?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+
+## 🧩 Fun Fact
+
+I love cracking tough puzzles and leveling up in games!
