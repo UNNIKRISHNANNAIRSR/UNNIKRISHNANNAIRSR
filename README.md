@@ -1,6 +1,6 @@
-<!-- Coding Landscape Banner -->
+<!-- Small Coding Icon on Top -->
 <p align="center">
-  <img src="https://i.gifer.com/3W3Z.gif" width="100%" alt="Coding Animation"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Coding Icon" width="100"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Unnikrishnan Nair SR</h1>  
