@@ -11,7 +11,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F79E&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Full+Stack+Developer+in+Making;Passionate+Learner+%26+Problem+Solver">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F79E&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Full+Stack+Developer;Passionate+Learner+%26+Problem+Solver">
   </a>
 </p>
 
