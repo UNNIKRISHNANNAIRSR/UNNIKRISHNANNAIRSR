@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Unnikrishnan Nair SR</h1>  
-<h3 align="center">💻 Computer Engineering Student | Aspiring Full-Stack Developer 🚀</h3>  
+<h3 align="center">💻 Computer Engineering Student | Aspiring Software Developer 🚀</h3>  
 
 ---
 
