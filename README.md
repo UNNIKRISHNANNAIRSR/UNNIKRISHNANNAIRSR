@@ -1,6 +1,6 @@
 <!-- Small Coding Icon on Top -->
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Coding Icon" width="100"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/105568.png" alt="Coding Icon" width="100"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Unnikrishnan Nair SR</h1>  
