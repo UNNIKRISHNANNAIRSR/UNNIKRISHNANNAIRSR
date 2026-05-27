@@ -64,7 +64,7 @@
 ## 🏆 Projects & Achievements  
 
 - 🌟 Built a **Recipe App** with **MERN stack** → [Check it out!](https://github.com/UNNIKRISHNANNAIRSR/INTERSHIP_PROJECT_RECIPE_APP)
-- - 🥇 Built a Digital Calculator → [Check it out!](https://github.com/UNNIKRISHNANNAIRSR/INTERSHIP_PROJECT_RECIPE_APP)
+- 🧮 Built a Digital Calculator → [Check it out!](https://unnikrishnannairsr.github.io/CALCULTOR_UK.github.io/)
 - 💻 Contributed to multiple **open-source projects**
 - 🥇 Completed **Internship projects** successfully  
 
